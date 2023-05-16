@@ -20,25 +20,25 @@
     8. .<<
     9. .flatten
     
- ### Array Iteration
+### Array Iteration
     1. .each
     2. .each_with_index
     3. .times
     4. .map
     
- #### Array Sorting Methods
+#### Array Sorting Methods
     1. .uniq
     2. .sort
     
-   ## HASH
-   ### Accessing elements in Hash
+## HASH
+### Accessing elements in Hash
       1. .fetch
       2. using keys eg hash[:name]
       
-   ### Modifying hashes
+### Modifying hashes
       1. You can modify by adding, updating or deleting key value pairs
       
-   ### Hash Iteration
+### Hash Iteration
       1. .each
       2. .each_key
       3. .each_value
